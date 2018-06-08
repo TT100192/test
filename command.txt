@@ -1,0 +1,2 @@
+import com.tt.spark.data_profile.DataProfile._
+df.dataProfile.show()
